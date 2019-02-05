@@ -1414,3 +1414,8 @@ textarea {
 .social-icon .google:hover {
   background: #CE332A;
 }
+
+.footer-logo {
+  height: 200px;
+  width: 200px;
+}
